@@ -10,3 +10,7 @@ Clikc [**Here**](https://github.com/StarryDust-02/ProjectCH) to access the sourc
 
 ### Project Farming
 Click [**HERE**](https://github.com/StarryDust-02/Project-Farming-Public) to access a fork of the source code of the game on GitHub.
+
+### Bo Kata
+Click [**Here**](https://daniakhan.itch.io/bo-kata) to go to our itch.io page.
+Click [**Here**](https://github.com/StarryDust-02/Designs-for-Bo-Kata) to access my UI and UX design sketch/documents for our team.
